@@ -8,6 +8,10 @@ namespace ProjetoTeste {
             Console.WriteLine("Git");
             Console.WriteLine("Daniel");
             Console.ReadLine();
+
+            for (int i = 0; i < 10; i++) {
+                Console.WriteLine("C#");
+            }
         }
     }
 }
